@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AbhoutMe</string>
+    <string name="my_name">Hello World!!</string>
+    <string name="my_desc">Hi, My name is Peggy.
+        \n
+        \n
+        Foods I like: otak-otak
+        \n
+        \n
+        Hobbies: sleep and playing mobile phone
+        \n
+        \n
+        Education:
+        \n\tSJK(C) Chong Hua Presbyterian
+        \n\tSMK Sri Muar
+        \n\n\nMy Internship Company:
+        \nPayRecon.co
+    </string>
+    <string name="profile_pic">This is my Profile Pic</string>
+</resources>
